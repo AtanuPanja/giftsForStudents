@@ -22,5 +22,5 @@ int main()
 	}
 	else if(science == 1)
 	printf("You have passed only in Science\nYou win Rs. 15");
-	
+	return 0;
 }
